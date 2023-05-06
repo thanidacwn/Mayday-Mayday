@@ -9,6 +9,10 @@ There are three levels in this game:
 - **Level 2:** There will be alien ships chasing our ship, which will spawn every 2 seconds and it will shoot bullets at the player every 5 seconds; the most are 3 alien ships and the meteor.
 - **Level 3:** There will be alien ships chasing our ship, which will spawn every 2 seconds and it will shoot bullets at the player every 5 seconds; the most are 5 alien ships and the meteor.
 
+## **Running the Application**
+To run the game, you should clone this project then open and run `GameUI.java`.
+
+For *better experience*, click [here](https://github.com/thanidacwn/Mayday-Mayday/raw/master/assets/ARCADECLASSIC.TTF) to download "Arcade Classic" font.
 
 ## **UI example**
 
